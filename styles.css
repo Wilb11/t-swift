@@ -1,6 +1,6 @@
 body {
-    /* background-color: lavender; */
-      background-image: linear-gradient(to bottom right, indigo, lavender);
+    /* background-color: black; */
+      background-image: linear-gradient(to bottom right, indigo, rgb(213, 160, 209));
   }
   
   h1 {
@@ -16,4 +16,5 @@ body {
   p {
     font-family: sans-serif;
     font-size: 20px;
+    text-align: center;
   }

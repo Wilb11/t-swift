@@ -1,0 +1,18 @@
+body {
+    background-color: lavender;
+  }
+  
+  h1 {
+    color: indigo;
+    text-align: center;
+  }
+
+  h2 {
+    color: mediumvioletred;
+    text-align: center;
+  }
+  
+  p {
+    font-family: sans-serif;
+    font-size: 20px;
+  }

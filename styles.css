@@ -1,14 +1,15 @@
 body {
-    background-color: lavender;
+    /* background-color: lavender; */
+      background-image: linear-gradient(to bottom right, indigo, lavender);
   }
   
   h1 {
-    color: indigo;
+    color: lavender;
     text-align: center;
   }
 
   h2 {
-    color: mediumvioletred;
+    color: palevioletred;
     text-align: center;
   }
   

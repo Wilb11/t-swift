@@ -19,7 +19,7 @@ df = pd.read_csv('clean_df.csv')
 # first need to make a df with one row per album containing the number of songs.
 df_song_count = pd.DataFrame(df.album.value_counts().reset_index())
 df_song_count.columns = ['album', 'Songs']
-df_song_count
+# df_song_count
 
 # now plot
 fig = px.bar(df_song_count, x="album", y="Songs", title="Number of songs per album", color='album', 

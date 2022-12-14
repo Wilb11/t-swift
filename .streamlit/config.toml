@@ -1,6 +1,9 @@
 [theme]
 primaryColor="red"
 backgroundColor="pink"
-secondaryBackgroundColor="lavender" 
+secondaryBackgroundColor="#F1D4DC" 
 textColor="maroon"
 font="sans serif"
+
+
+

@@ -1,5 +1,5 @@
 # altair==4.2.0
-# bokeh==2.4.3
+bokeh==2.4.3
 # boto3==1.24.28
 # nltk==3.7
 pandas==1.4.4

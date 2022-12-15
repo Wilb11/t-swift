@@ -31,7 +31,7 @@ attributes.remove('instrumentalness')
 
 ## make list of markers
 marker_list = ["diamond","circle" , "square" ,  "cross" , "pentagon" , "hexagram" , \
-               "star" ," diamond" , "hourglass" , "bowtie"]
+               "star" , "bowtie"]
 
 # function to make a scatterplot in plotly express
 def create_plotly_scatter_by_album(df, x, y, hover_data, color, color_discrete_sequence, title, template, size, symbol, width, linecolor):
